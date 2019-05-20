@@ -1,0 +1,11 @@
+{
+	"title": "纷享销客产品手册",
+	"author": "fxiaoke",
+	"language": "zh-hans",
+	"plugins": [
+		"expandable-chapters",
+		"lazyload-image",
+		"-sharing",
+		"theme-fs"
+	]
+}
